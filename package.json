@@ -1,0 +1,20 @@
+{
+    "name": "@marlonavery/resume",
+    "title": "Marlon Avery Resume",
+    "version": "1.0",
+    "keywords": [
+      "Marlon Avery, resume"
+    ],
+    "description": "A detailed catalog of my past work-related experiences.",
+    "author": "Marlon Avery <roshadavery@gmail.com>",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/marlona/resume.git"
+    },
+    "bugs": {
+      "url": "https://github.com/marlona/resume/issues"
+    },
+    "homepage": "https://github.com/marlona/resume"
+  }
+  
