@@ -31,13 +31,13 @@ An 8 week 144 hour course that dives deep into full stack development. In depth 
 ## Experience
 **NewCraft, Atlanta, GA**  
 Software Engineer &ndash; Contractor  
-*March 2019 &ndash; Present*  
+*2019 &ndash; Present*  
 - Currently, building an e-commerce application using React, Redux, React Hooks, React Router,GraphQL, Context API, Firebase, Redux-Saga, and Stripe. Full stack app (MERN stack), using Firebase.
 
 
 **Treehouse, Remote, USA**  
 TalentPath Manager  
-*2018 &ndash; March 2019*  
+*2018 &ndash; 2019*  
 - Led a small team of innovative engineers
 - Taught 30 students Full Stack Javascript, Python Web Development, UX Design, and iOS Development
 - Conducted weekly meetings with the apprentices and their mentors, to ensure 90% completion of the program
@@ -48,7 +48,7 @@ TalentPath Manager
 
 **Rekure Web Agency, Atlanta, GA**  
 Front-End Developer 
-*January 2018 &ndash; November 2018*  
+*2018 &ndash; 2018*  
 - Developed site manager portal which housed tooling used by customer service representatives (Node.js, Styled Components, React, Redux)
 - Migrated existing LESS styling to use Styled Components (React, Styled Components, LESS)
 - Integrated Auth0 flow into the site manager portal (React, Redux)
@@ -56,7 +56,7 @@ Front-End Developer
 
 **Uber Technologies, Atlanta, GA**  
 Greenlight Expert  
-*February 2016 &ndash; December 2017*  
+*2016 &ndash; 2017*  
 - Brainstormed and presented a new framework for rider feedback to Uber-Pool executives that was ultimately adopted globally within the Uber platform
 - Created two new and ongoing training programs and materials to be used for existing employees and new hire
 - Provided in-person support to promote the Uber brand and foster positive and customer-centered experiences
